@@ -12,12 +12,10 @@ Initial dataset exploration for structure, missing values, and anomalies.
 Applied relevant preprocessing, handling missing values and outliers.
 
 
-
 2.Exploratory Data Analysis (EDA)
 binary-continuous variables correlation with TotalRevenue
 
 box plot for all components potentially affect TotalRevenue
-
 
 
 3.Feature Engineering & Pre-processing:
